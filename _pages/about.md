@@ -38,7 +38,6 @@ I work at the intersection of graph algorithms, time series analysis, and databa
 - **Analytics** — developing query processing and analytics techniques for extracting insights from these combined graph and time series workloads.
 - **Graph & Time Series Workloads** — building and evaluating data management systems that support these workloads at scale.
 
-
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
