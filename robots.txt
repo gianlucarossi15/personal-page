@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gianlucarossi.github.io/al-folio/sitemap.xml
+Sitemap: https://gianlucarossi15.github.io/personal-page/sitemap.xml
